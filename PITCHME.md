@@ -1,6 +1,6 @@
-# Sunkist
+# <span class="blue"> Flutter Camp </span>
 
-### A GitPitch Presentation Template
+### An Immersive Workshop on Flutter
 
 ---
 
