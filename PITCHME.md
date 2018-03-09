@@ -115,5 +115,6 @@ http.createServer(function (request, response) {
 
 @title[Download this Template!]
 
-### <span class="blue">Thank you!</span>
+<br/><br/>
+### <span class="blue">Thank you for listening!</span>
 
