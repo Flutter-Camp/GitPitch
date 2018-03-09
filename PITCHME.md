@@ -1,6 +1,6 @@
 ## <span class="blue"> Flutter Camp </span>
 
-### A Hands-On Workshop on Flutter
+### App Development Workshop
 
 ---
 
