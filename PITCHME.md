@@ -1,6 +1,6 @@
 # Flutter Camp
 
-<p>
 Resources for learning [Flutter](https://flutter.io) 
-in self-guided or group-study contexts.
-</p>
+<br/> in self-guided or group-study contexts.
+
+Created by [@nitya](https://twitter.com/nitya)
