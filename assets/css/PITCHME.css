@@ -77,6 +77,10 @@ body {
   color: white;
 }
 
+.blue {
+  color: #01579b;
+}
+
 .gp-tip { font-size : 1.5em; }
 
 .gp-contact { font-size : 1.4em; }
