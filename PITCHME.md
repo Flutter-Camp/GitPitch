@@ -99,6 +99,6 @@ Resources for learning [Flutter](https://flutter.io)
 
 ---
 
-## 6. Flutter for Web Devs
+## 15. Additional Resources 
 
 ---
