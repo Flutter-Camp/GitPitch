@@ -29,7 +29,7 @@ body {
 
 .reveal .slides section .code-presenting-annotation {
   color: white;
-  background: #af5a0e;
+  background: #01579b;
   padding: 1px 15px;
   border-radius: 15px;
   opacity: 0.75 !important;
@@ -61,7 +61,7 @@ body {
 }
 
 .reveal a {
-    color: #af5a08 !important;
+    color: #01579b !important;
 }
 
 .reveal a:hover {
