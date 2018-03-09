@@ -115,7 +115,6 @@ http.createServer(function (request, response) {
 
 @title[Download this Template!]
 
-<br><br><br><br><br><br><br><br><br>
-
-## <span class="blue"> <b> #FlutterCamp </b></span>
+<br><br><br><br><br>
+## <span class="white"> <b> #FlutterCamp </b></span>
 
